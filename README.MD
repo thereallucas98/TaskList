@@ -7,7 +7,7 @@ Utilizando o Firebase para armazenar listas de tarefas, podendo ser adicionadas,
 
 <h2 align="center"> 📷 Screenshot do projeto: </h2>
 <p align="center">
-<img width="600" height="400" src="/src/img/tasklist">
+<img width="600" height="400" src="/src/img/tasklist.png">
 </p>
 
 _________
